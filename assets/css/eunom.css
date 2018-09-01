@@ -1,0 +1,27 @@
+body {
+    background: #35365aed;
+
+}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+
+.main-raised {
+    background: #212233;
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+.description {
+    color: whitesmoke;
+}
+
+
+
+/* Navy blue - #212233
+   Old image blue - #2b2c55
+   Backdrop - #35365aed
+*/
